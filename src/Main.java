@@ -48,6 +48,7 @@ public class Main {
         value3 [1] = 2;
     }
 
+
     public static void changeValue4(Integer [] value4){
         // value3 []={1,2};  // не работает
         value4 [0] = 99;
